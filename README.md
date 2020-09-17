@@ -1,4 +1,4 @@
-<h> Image_encryption </h>
+<h1> Image_encryption </h1>
 <p>Image encryption Algorithm to store important images in secured form by encrypting
 them to visually meaningful images using advanced encryption techniques.</p>
 </br>
